@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.env
+.idea
+.wttd
+*.sqllite3
+*pyc
+__pycache__
